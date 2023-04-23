@@ -1,4 +1,3 @@
-Sure, here's a self-introduction README for your GitHub profile:
 
 # Hi there! 👋
 
