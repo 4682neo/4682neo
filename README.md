@@ -1,4 +1,3 @@
-
 # Hi there! 👋
 
 I'm 4682neo and I'm a C++ developer. 
@@ -15,7 +14,3 @@ I'm 4682neo and I'm a C++ developer.
 
 - C++
 - Git & GitHub
-
-## 🤝🏻 Let's connect!
-
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/4682neo/) or [Twitter](https://twitter.com/4682neo). Let's connect and chat about all things tech! 👨‍💻
