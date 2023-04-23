@@ -1,16 +1,22 @@
-### Hi there 👋
+Sure, here's a self-introduction README for your GitHub profile:
 
-<!--
-**4682neo/4682neo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+I'm 4682neo and I'm a C++ developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 About me 
+
+- 💻 I work on various projects using C++ 
+- 🌱 I'm currently learning algorithms and data structures 
+- 🔭 I'm looking to contribute to open source projects 
+- 😄 Pronouns: He/Him
+- 🎮 In my free time, I enjoy playing video games and watching anime.
+
+## 🛠️ Skills
+
+- C++
+- Git & GitHub
+
+## 🤝🏻 Let's connect!
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/4682neo/) or [Twitter](https://twitter.com/4682neo). Let's connect and chat about all things tech! 👨‍💻
